@@ -464,7 +464,6 @@ nav {
   overflow: hidden;
   border-radius: 20px;
   position: relative;
-  aspect-ratio: 3/4;
 }
 
 .portfolio-card img {
