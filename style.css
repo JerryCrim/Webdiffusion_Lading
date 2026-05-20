@@ -500,7 +500,7 @@ nav {
   position: relative;
   overflow: hidden;
   background: linear-gradient(135deg, #1e3d86, #062a70);
-  padding: 90px 80px;
+  padding: 37px 80px;
 }
 
 .google-bg-shape {
@@ -537,6 +537,8 @@ nav {
 .google-worker {
   width: 100%;
   max-width: 320px;
+  position: relative;
+  top: 35px;
 }
 
 .google-center h2 {
